@@ -1,41 +1,38 @@
 <div align="center">
 
-```
-  █████  ██      ██             ███████ ██  ██████  ███    ██  █████  ██      
- ██   ██ ██      ██             ██      ██ ██       ████   ██ ██   ██ ██      
- ███████ ██      ██      █████  ███████ ██ ██   ███ ██ ██  ██ ███████ ██      
- ██   ██ ██      ██                  ██ ██ ██    ██ ██  ██ ██ ██   ██ ██      
- ██   ██ ███████ ███████        ███████ ██  ██████  ██   ████ ██   ██ ███████ 
-```
+<img src="https://raw.githubusercontent.com/All-Signal/.github/main/assets/banner.jpg" alt="ALL-SIGNAL // THE ONE" width="100%" />
 
-### **THE ONE PERCENT OF COGNITIVE DENSITY & EXECUTION AGENCY**
-
-[![Operational Status](https://img.shields.io/badge/NETWORK-OPERATIONAL-00FF66?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/All-Signal)
-[![Signal Tier](https://img.shields.io/badge/SIGNAL%20RATIO-99.9%25-black?style=for-the-badge)](https://github.com/All-Signal)
-[![Entry Protocol](https://img.shields.io/badge/ADMISSION-PROOF--OF--WORK%20ONLY-D00000?style=for-the-badge)](https://github.com/All-Signal)
-[![Classification](https://img.shields.io/badge/CLEARANCE-RESTRICTED-blueviolet?style=for-the-badge)](https://github.com/All-Signal)
+# ALL-SIGNAL // THE ONE
+### *The Enclave of Polymaths, Frontier Builders & Non-Linear Minds*
 
 <p align="center">
-  <b>An elite global syndicate of polymaths, frontier technologists, and non-linear outliers.</b><br/>
-  <i>We do not fit into conventional hierarchies. We build the architecture that replaces them.</i>
+  <a href="https://github.com/All-Signal"><img src="https://img.shields.io/badge/CLEARANCE-PROOF--OF--WORK%20REQUIRED-D00000?style=for-the-badge&logo=shield" alt="Clearance" /></a>
+  <a href="https://github.com/All-Signal"><img src="https://img.shields.io/badge/NETWORK-OPERATIONAL-00FF66?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" /></a>
+  <a href="https://github.com/All-Signal"><img src="https://img.shields.io/badge/SIGNAL%20RATIO-99.9%25-000000?style=for-the-badge&logo=target" alt="Signal" /></a>
+  <a href="https://github.com/All-Signal"><img src="https://img.shields.io/badge/TOP%201%25-DENSITY%20%26%20VELOCITY-8A2BE2?style=for-the-badge" alt="Tier" /></a>
+</p>
+
+<p align="center">
+  <b>We build what linear minds cannot conceive.</b><br/>
+  <i>Chaos is not a disorder here. It is raw, parallel compute power.</i>
 </p>
 
 ---
 
 </div>
 
-## ⚡ The Doctrine: Why We Exist
+## ⚡ The Manifesto: Beyond Consensus Reality
 
-The world's institutional models are designed for linear, risk-averse, and uniform minds.  
-Those gifted with **high cognitive velocity, manic obsession, and divergent associative reasoning** are repeatedly diagnosed as *"chaotic"*, *"difficult"*, or *"unfocused"*. They are forced to dilute their speed to accommodate institutional paralysis.
+Traditional corporate and societal structures are optimized for linear, predictable, and compliant minds.  
+Outliers—polymaths with non-linear processing speeds, hyper-fixations, and divergent associative reasoning—are repeatedly told to quiet down, slow down, or stay in one lane. They are labeled "scattered", "manic", or "unfocused".
 
-### **We reject the consensus reality.**
+### **We reject that compromise.**
 
-**ALL-SIGNAL** is a sovereign forge for individuals who think at orders-of-magnitude faster speeds and refuse to compromise their ambition. We define **THE ONE** not by inherited capital, but by:
+**ALL-SIGNAL** is a sovereign forge for individuals whose minds move too fast for consensus reality. We define **THE ONE** not by inherited capital or titles, but by:
 
-1. **Cognitive Bandwidth:** The capacity to ingest, synthesize, and cross-pollinate multi-disciplinary frontiers overnight.
-2. **Asymmetric Velocity:** Shipping production engines while others are still scheduling alignment meetings.
-3. **Ruthless Integrity:** Zero social posturing. Absolute allegiance to first principles and objective ground truth.
+1. **High Cognitive Bandwidth:** Ingesting, deconstructing, and cross-pollinating multi-disciplinary frontiers overnight.
+2. **Asymmetric Velocity:** Shipping production engines while consensus thinkers are still scheduling meetings.
+3. **Radical Ground Truth:** Zero performative social posturing. Absolute allegiance to first principles and objective execution.
 
 ```
        ┌────────────────────────────────────────────────────────┐
@@ -65,10 +62,10 @@ Those gifted with **high cognitive velocity, manic obsession, and divergent asso
 
 | Pillar | Axiom | The Mandate |
 | :--- | :--- | :--- |
-| **I. Cognitive Divergence** | *Chaos is raw parallel compute.* | What conventional environments treat as ADHD, neurodivergence, or mania, we channel as multi-threaded processing power. |
+| **I. Cognitive Divergence** | *Chaos is raw parallel compute.* | What conventional systems call ADHD, neurodivergence, or mania, we deploy as multi-threaded processing power. |
 | **II. Proof of Work Over Pedigree** | *Builders only. Zero tourists.* | Degrees, resumes, and titles are meaningless here. We measure individuals exclusively by git commits, live revenue engines, shipped models, and deployed infrastructure. |
 | **III. Cross-Domain Asymmetry** | *Synthesize the orthogonal.* | The greatest multi-billion-dollar leaps occur at extreme intersections: Mechanistic Interpretability × Quant Arbitrage, Synthetic Biology × Cryptographic Proofs. |
-| **IV. Radical Ground Truth** | *Brutal candor. Zero fluff.* | No corporate diplomacy. An intellectual sparring ring where bad theses are shredded immediately so that only antifragile systems survive. |
+| **IV. Radical Ground Truth** | *Brutal candor. Zero fluff.* | No corporate diplomacy. An intellectual sparring ring where weak theses are shredded immediately so that only antifragile systems survive. |
 
 ---
 
@@ -77,7 +74,7 @@ Those gifted with **high cognitive velocity, manic obsession, and divergent asso
 The syndicate operates across dedicated research, engineering, and capital wings:
 
 ```
-ALL-SIGNAL / CORE
+ALL-SIGNAL / COMMAND
  ├── 🤖 [LAB-01] FRONTIER INTELLIGENCE   -> Multi-agent swarms, LLM interpretability, edge inference
  ├── 📊 [LAB-02] QUANTITATIVE CAPITAL    -> On-chain alpha, order-book microstructures, algorithmic models
  ├── 🛡️ [LAB-03] SOVEREIGN SYSTEMS       -> Zero-trust primitives, distributed compute, hardened infrastructure
@@ -87,11 +84,10 @@ ALL-SIGNAL / CORE
 
 ---
 
-## 🗂️ Organization Codebases
+## 🗂️ Active Repositories
 
-| Repository | Visibility | Focus & Purpose |
+| Repository | Classification | Mission Focus |
 | :--- | :--- | :--- |
-| **[`All-Signal/.github`](https://github.com/All-Signal/.github)** | `PUBLIC` | Syndicate manifesto, governance framework, and admission charter |
 | **[`All-Signal/frontier-ai-research`](https://github.com/All-Signal/frontier-ai-research)** | `PUBLIC` | Research prototypes in agentic orchestration, memory architectures, and fine-tuning pipelines |
 | **[`All-Signal/syndicate-core`](https://github.com/All-Signal/syndicate-core)** | `PUBLIC` | Automated vetting bots, Discord command center telemetry, Proof-of-Work validation |
 | **[`All-Signal/quant-capital-models`](https://github.com/All-Signal/quant-capital-models)** | `RESTRICTED` | Proprietary quantitative analytics, execution engines, and risk matrices |
