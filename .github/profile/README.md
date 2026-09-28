@@ -1,9 +1,9 @@
-# THE ONE // SOCIETY
+# ALL-SIGNAL // THE ONE
 > *“Chaos is raw compute. Build what normal minds cannot conceive.”*
 
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF66?style=for-the-badge&logo=target)](https://github.com)
-[![Protocol](https://img.shields.io/badge/PROTOCOL-HIGH--VELOCITY-black?style=for-the-badge)](https://github.com)
-[![Clearance](https://img.shields.io/badge/CLEARANCE-PROOF--OF--WORK-red?style=for-the-badge)](https://github.com)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF66?style=for-the-badge&logo=target)](https://github.com/All-Signal)
+[![Protocol](https://img.shields.io/badge/PROTOCOL-ALL--SIGNAL-black?style=for-the-badge)](https://github.com/All-Signal)
+[![Clearance](https://img.shields.io/badge/CLEARANCE-PROOF--OF--WORK-red?style=for-the-badge)](https://github.com/All-Signal)
 
 ---
 
@@ -14,7 +14,7 @@ Outliers—polymaths with non-linear processing speeds, hyper-fixations, and cha
 
 **We reject that paradigm.**
 
-**THE ONE** is an enclave for dangerous minds and high-agency builders. We do not define the "One Percent" by inherited wealth, but by **density of thought, velocity of execution, and the audacity to bend reality.**
+**ALL-SIGNAL** is an enclave for dangerous minds and high-agency builders. We do not define the "One Percent" by inherited wealth, but by **density of thought, velocity of execution, and the audacity to bend reality.**
 
 Here, fragmented genius across frontier domains—Artificial Intelligence, Quant Systems, Frontier Tech, Bio-Optimization, and Sovereign Architecture—collides to ship high-leverage ventures.
 
@@ -29,7 +29,7 @@ Here, fragmented genius across frontier domains—Artificial Intelligence, Quant
    [ AI & HPC ] [ QUANT ] [ BIOLOGY ]
        └──────────┬──────────┘
                   ▼
-       [ HIGH-AGENCY SYNDICATE ]
+       [ ALL-SIGNAL SYNDICATE ]
                   │
         (Deploy & Dominate)
                   ▼
@@ -51,16 +51,16 @@ Here, fragmented genius across frontier domains—Artificial Intelligence, Quant
 
 ## 🗂️ Organization Blueprint & Repositories
 
-The GitHub Organization serves as the open-source and proprietary forge for **THE ONE**:
+The GitHub Organization serves as the open-source and proprietary forge for **ALL-SIGNAL**:
 
 | Repository | Classification | Focus Area |
 | :--- | :--- | :--- |
-| [`.github`](https://github.com) | `PUBLIC` | Organization profile, community charters, vetting framework, and collective manifesto |
-| [`syndicate-core`](https://github.com) | `INTERNAL` | Bot automation, Discord command center integrations, verify-by-commit infrastructure |
-| [`frontier-ai-research`](https://github.com) | `RESTRICTED` | Autonomous agent swarms, mechanistic interpretability tools, local model deployment stacks |
-| [`quant-capital-models`](https://github.com) | `RESTRICTED` | High-frequency signal analysis, on-chain liquidity primitives, market risk models |
-| [`sovereign-systems`](https://github.com) | `INTERNAL` | Encrypted infrastructure, distributed compute nodes, zero-trust coordination tools |
-| [`product-roasts`](https://github.com) | `MEMBER ONLY` | Structured tear-downs, venture stress-testing frameworks, and post-mortems |
+| [`.github`](https://github.com/All-Signal/.github) | `PUBLIC` | Organization profile, community charters, vetting framework, and collective manifesto |
+| [`syndicate-core`](https://github.com/All-Signal/syndicate-core) | `INTERNAL` | Bot automation, Discord command center integrations, verify-by-commit infrastructure |
+| [`frontier-ai-research`](https://github.com/All-Signal/frontier-ai-research) | `RESTRICTED` | Autonomous agent swarms, mechanistic interpretability tools, local model deployment stacks |
+| [`quant-capital-models`](https://github.com/All-Signal/quant-capital-models) | `RESTRICTED` | High-frequency signal analysis, on-chain liquidity primitives, market risk models |
+| [`sovereign-systems`](https://github.com/All-Signal/sovereign-systems) | `INTERNAL` | Encrypted infrastructure, distributed compute nodes, zero-trust coordination tools |
+| [`product-roasts`](https://github.com/All-Signal/product-roasts) | `MEMBER ONLY` | Structured tear-downs, venture stress-testing frameworks, and post-mortems |
 
 ---
 
@@ -77,10 +77,10 @@ The GitHub Organization serves as the open-source and proprietary forge for **TH
 
 ## 🚪 Admission Protocol
 
-Admission into **THE ONE** is strictly gated by **Proof of Work**, not credentials or pedigree.
+Admission into **ALL-SIGNAL** is strictly gated by **Proof of Work**, not credentials or pedigree.
 
 ```bash
-$ curl -s https://the-one.society/handshake.sh | bash
+$ curl -s https://all-signal.society/handshake.sh | bash
 # 1. Submit your obsession (The rabbit hole that consumes your 3 AM thoughts)
 # 2. Link your shipped artifacts (Repos, products, deployed contracts, revenue engines)
 # 3. Undergo a thesis roast in the Council chamber
@@ -95,5 +95,5 @@ $ curl -s https://the-one.society/handshake.sh | bash
 
 <div align="center">
   <sub>Constructed for those who were told they are "too much". Welcome home.</sub><br/>
-  <b>THE ONE // SOCIETY</b>
+  <b>ALL-SIGNAL // THE ONE</b>
 </div>
